@@ -6,6 +6,6 @@ steps:
     deployTool: 'mtaDeployPlugin'
     deployType: 'standard'
     cloudFoundry:
-      org: 'Korasoft GmbH'
-      space: 'TestSpace1'
+      org: '8ab14cc8trial'
+      space: 'dev'
       credentialsId: 'CF_CREDENTIALSID'
